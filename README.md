@@ -17,7 +17,6 @@ The worker.conf file contains all the information necessary to setup the worker.
 To build the container:
 ```
 docker build . --tag docker-worker
-
 ```
 
 To remove the previously built container:
